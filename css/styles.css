@@ -1,0 +1,40 @@
+a {
+      text-decoration:none;
+   }
+
+.pic {
+	height: 200px;
+}
+
+#onetitle {
+	padding-bottom: 20px;
+}
+
+.previous-work {
+	font-color: black;
+}
+
+.pic-titles {
+	color: #272c33;
+}
+
+.background {
+	background-color: #3b3a36;
+}
+
+.intro-text {
+	color: #e9ece5;
+}
+
+#github-button {
+	background-color: #c0dfd9;
+	color: #3b3a36;
+}
+
+#github-button:hover {
+	background-color: #b3c2bf;
+}
+
+.bottom-part {
+	background-color: #e9ece5;
+}
